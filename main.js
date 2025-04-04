@@ -114,5 +114,5 @@ function goMap(hospitalInfo) {
     }).toString();
 
     // map.html로 이동하면서 파라미터 전달
-    window.location.href = './map.html?' + params; 
+    window.location.href = './test.html?' + params; 
 }
